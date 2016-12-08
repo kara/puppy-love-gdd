@@ -1,0 +1,32 @@
+md-toolbar md-icon {
+  margin: 0 8px;
+}
+
+.desc {
+  color: rgba(0,0,0,0.54);
+
+}
+
+md-input {
+  font-size: 24px;
+  width: 100%;
+}
+
+md-input .md-input-wrapper {
+  margin: 0;
+}
+
+md-card [md-button] {
+  font-size: 20px;
+}
+
+
+md-card {
+  margin: 16px;
+  width: 350px;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+}
