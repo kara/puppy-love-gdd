@@ -1,6 +1,6 @@
 # PuppyLoveGdd
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
+This is the code repo for the live demo in the Beijing GDD talk in 2016.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
